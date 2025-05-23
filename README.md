@@ -1,4 +1,4 @@
-# GPS-SPP
+# LSGI3322 GNSS SPP
 LSGI3322 Satellite Positioning Systems - Individual SPP Project &amp; Field Survey
 
 ## How to Run
